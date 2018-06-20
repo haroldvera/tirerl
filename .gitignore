@@ -16,3 +16,8 @@ rel/example_project
 log*/
 _build/
 doc/
+_build
+.idea
+*.iml
+rebar3.crashdump
+Icon
